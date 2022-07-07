@@ -4,4 +4,4 @@
 #### what does the 0.0.x version mean ?- x.- patch in versiune
 ##### what do the alpha, beta, rc, snapshot mean ?- relizu (inceputul,sfirsitul), fixarea bagurilor sau testarea  etc.
 ###### what do the alpha, beta, rc, snapshot mean ?- cercu sau piramida de realizare a proiectului.
-####### what is the opposite of push in git ?- gitfetch
+#######what is the opposite of push in git ?- gitfetch
